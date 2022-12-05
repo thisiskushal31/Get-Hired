@@ -4,8 +4,8 @@ You can find here all the list of companies hiring in india both remote and onsi
 
 -- Happy Job Hunting!!  
 
-- [List of Companies Hiring for Remote Job]()
-- [List of Companies Hiring for Onsite Job]()
+- [List of Companies Hiring for Remote Job](https://github.com/thisiskushal31/Get-Hired/blob/main/CompanyList-Remote.md)
+- [List of Companies Hiring for Onsite Job](https://github.com/thisiskushal31/Get-Hired/blob/main/CompanyList-Onsite.md)
 
 Feel free to contribute but make sure you should follow [contribution guidelines]().
 
