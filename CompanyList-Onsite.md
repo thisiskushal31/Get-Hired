@@ -87,8 +87,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <!-- ## A   -->
 <h2 id="A">A</h2> 
 
-1. 
-1. 
+1. [Apple](https://www.apple.com/careers/in/)
+1. [Accenture](https://www.accenture.com/in-en/careers)
+1. [Atos](https://atos.net/en/careers)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
