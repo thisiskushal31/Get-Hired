@@ -95,7 +95,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="B">B</h2>  
 
-1. 
+1. [Blackbuck](https://www.blackbuck.com/careers.php)
 1. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -228,7 +228,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="T">T</h2>  
 
-1. 
+1. [trulymadly](https://trulymadly.com/career)
 1. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
