@@ -175,8 +175,44 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="C">C</h2>  
 
-1. 
-1. 
+1. [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
+1. [Capillary](https://www.capillarytech.com/about-us/careers/)
+1. [Capital One](https://www.capitalonecareers.com/)
+1. [CarDekho](https://careers.cardekho.com/)
+1. [Careem](https://www.careem.com/en-ae/careers/)
+1. [CarWale](https://www.carwale.com/career/)
+1. [Cashfree](https://www.cashfree.com/careers)
+1. [Cimpress](https://cimpress.com/careers/)
+1. [Celigo](https://www.celigo.com/company/careers/)  
+1. [Cerner](https://careers.cerner.com/)
+1. [Chargebee](https://careers.chargebee.com/jobs/)
+1. [Chronus](https://chronus.com/about-us/careers)  
+1. [Cisco](https://jobs.cisco.com/)  
+1. [Citadel](https://www.citadel.com/careers/open-positions/)
+1. [Citadel Securities](https://www.citadelsecurities.com/careers/open-roles/)
+1. [Citrix](https://jobs.citrix.com/)  
+1. [Classplus](https://www.linkedin.com/jobs/classplus-jobs/?originalSubdomain=in)
+1. [ClearGlass](https://clearglass.com/careers/)
+1. [Cleartrip](https://careers.cleartrip.com/#!/)
+1. [Cloudera](https://www.cloudera.com/careers.html)  
+1. [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
+1. [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
+1. [Cognizant](https://careers.cognizant.com/in/en)
+1. [CoinBase](https://www.coinbase.com/careers)
+1. [CoinDCX](https://careers.coindcx.com/)  
+1. [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
+1. [Commvault](https://careers.commvault.com/)
+1. [Continental](https://www.continental.com/en/career/)
+1. [Contra](https://contra.com/careers)
+1. [Coupang](https://rocketyourcareer.usa.coupang.com/)
+1. [Cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
+1. [Cred](https://careers.cred.club/)  
+1. [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
+1. [Crestron](https://www.crestron.com/About/careers-jobs-employment-opportunities)
+1. [Crowdstrike](https://www.crowdstrike.com/careers/)
+1. [CSS Corp](https://www.csscorp.com/company/careers/)  
+1. [cure.fit](https://www.cult.fit/careers)
+1. [Cvent](https://www.cvent.com/en/careers)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -288,7 +324,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="S">S</h2>  
 
-1. 
+1. [Service Now](https://careers.servicenow.com/careers)
 1. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -297,6 +333,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 1. [Trulymadly](https://trulymadly.com/career)
 1. [Tekion Corp](https://tekion.com/careers)
+1. [Test Gorilla](https://www.testgorilla.com/careers/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
