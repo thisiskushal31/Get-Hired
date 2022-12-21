@@ -72,7 +72,7 @@
       </thead>
       <tbody>
          <tr>
-            <td align="center">415</td>
+            <td align="center">417</td>
          </tr>
       </tbody>
    </table>
@@ -588,6 +588,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="W">W</h2>  
 
+1. [Wipro](https://careers.wipro.com/careers-home/jobs)
 1. [Walmart](https://careers.walmart.com/technology)  
 1. [Warner Bros.](https://warnermediacareers.com/warner-bros-jobs)
 1. [Wells Fargo](https://www.wellsfargo.com/about/careers/)  
