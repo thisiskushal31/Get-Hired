@@ -15,6 +15,10 @@ If you are looking for job stay active on these website:
 - [Instahyre](https://www.instahyre.com/)
 - [LinkedIn Job](https://www.linkedin.com/jobs/)
 - [Startup.jobs](https://startup.jobs/)
+- [AngelList](https://angel.co/)
+- [SimplyHired](https://www.simplyhired.co.in/)
+- [Indeed](https://in.indeed.com/)
+- [Foundit(Formally Monster)](https://www.foundit.in/)
 
 #### About Me
 
