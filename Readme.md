@@ -9,18 +9,34 @@ You can find here all the list of companies hiring in india both remote and onsi
 
 Feel free to contribute but make sure you should follow [contribution guidelines](https://github.com/thisiskushal31/Get-Hired/blob/main/Contributing.md).
 
-### Job Listing Site
+### If you are looking for a job in India or In-office, visit these website
 
-If you are looking for job stay active on these website:
+If you are looking for job in india stay active on these website:
 - [Instahyre](https://www.instahyre.com/)
 - [LinkedIn Job](https://www.linkedin.com/jobs/)
 - [Startup.jobs](https://startup.jobs/)
-- [AngelList](https://angel.co/)
 - [SimplyHired](https://www.simplyhired.co.in/)
 - [Indeed](https://in.indeed.com/)
 - [Foundit(Formally Monster)](https://www.foundit.in/)
 - [Unstop Jobs](https://unstop.com/jobs)
 
+### If you are looking for remote jobs, visit these website
+
+Best Sites for Finding Remote Work Online: Remote-Only Job Boards
+
+- [FlexJobs](https://www.flexjobs.com)
+- [Arc](https://arc.dev/)
+- [Remote.co](https://remote.co/)
+- [Just Remote](https://justremote.co/)
+- [Skip the Drive](https://www.skipthedrive.com/)
+- [Virtual Vocations](https://www.virtualvocations.com/)
+- [Pangian](https://pangian.com/)
+- [We Work Remotely](https://weworkremotely.com/)
+- [Remotive](https://remotive.com/)
+- [Remote OK](https://remoteok.com/)
+- [Wellfound (Formally AngelList Talent)](https://angel.co/)
+
+***Note*** : *Ypu will found different list on internet it depend on the time of job search*
 #### About Me
 
 I am CS Undergraduate student learning Web Development and trying out trending technologies.      
